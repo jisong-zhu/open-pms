@@ -1,0 +1,9 @@
+{
+	"port": "5050",
+	"serverAddr": "http://localhost:5050",
+	"database": "openpms",
+	"db_user": "root",
+	"db_pwd": "123",
+	"mail_server_account": "open_pms@163.com",
+	"mail_server_password": "Ab123456"
+}
